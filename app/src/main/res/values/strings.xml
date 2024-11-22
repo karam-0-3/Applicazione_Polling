@@ -1,0 +1,9 @@
+<resources>
+    <string name="title">MobiFog</string>
+    <string name="subtitle">Polling Version</string>
+    <string name="app_name">MobiFog_Polling</string>
+    <string name="forch_url_hint">FORCH URL</string>
+    <string name="register_client_webhook_text">Register Client WebHook</string>
+    <string name="start_polling_text">Start Polling</string>
+    <string name="stop_polling_text">Stop Polling</string>
+</resources>
